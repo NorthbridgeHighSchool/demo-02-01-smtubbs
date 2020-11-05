@@ -1,0 +1,11 @@
+img{
+  max-width: 300px;
+ 
+}
+.odd{
+  float: left;
+  margin-right: 8pt;
+}
+p{
+  text-align: justify;
+}
