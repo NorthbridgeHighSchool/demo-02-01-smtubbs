@@ -6,6 +6,10 @@ img{
   float: left;
   margin-right: 8pt;
 }
+.even{
+  float: right;
+  margin-left: 8pt;
+}
 p{
   text-align: justify;
 }
